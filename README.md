@@ -7,7 +7,7 @@ ML-Fun is my first take on machine learning algorithms. At it's core AI is tryin
 
 ## Useful references
 
-**Generation** - when all dots are dead (ran into obstacles) new generation is being created with top genes from the previous one. In consequence each generation should have better (or same) result as previous one
+**Generation** - when all dots are dead (ran into obstacles) new generation is being created with top genes from the previous one. In consequence each generation should have better (or the same) result as previous one
 
 **Alfa** - best individual from previous generation is being copied directly into new one and is displayed as a green dot.
 
