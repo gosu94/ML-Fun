@@ -1,6 +1,6 @@
 # ML-Fun
 
-ML-Fun is my first take on machine learning algorithms. At it's core AI is trying to get to a goal (red dot) in as few steps as possible. Individual fitness function is being calculated for every dot basing on combination of distance from goal and minimal steps required to reach it.
+ML-Fun is my first take on machine learning algorithms. At it's core AI is trying to get to a goal (red dot) in as few steps as possible. Individual fitness function is being calculated for every dot ( there are 1000 of them ) basing on combination of distance from goal and minimal steps required to reach it.
 
 ![screenshot](https://github.com/gosu94/ML-Fun/blob/master/ml2.gif?raw=true)
 
