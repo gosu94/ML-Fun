@@ -14,13 +14,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GdxGame extends ApplicationAdapter {
-    static Population population;
+    private static Population population;
     static List<Obstacle> obstacles;
     static Dot goal;
     static ShapeRenderer shapeRenderer;
-    SpriteBatch batch;
-    BitmapFont font;
-    InputHandler inputHandler;
+    private SpriteBatch batch;
+    private BitmapFont font;
+    private InputHandler inputHandler;
 
     static void resetPopulation() {
         population = null;
@@ -89,7 +89,7 @@ public class GdxGame extends ApplicationAdapter {
     @Override
     public void dispose() {
         batch.dispose();
-        //shapeRenderer.dispose();
+        shapeRenderer.dispose();
         font.dispose();
     }
 }
