@@ -15,6 +15,7 @@ ML-Fun is my first take on machine learning algorithms. At it's core AI is tryin
 
 ## Instructions
 As a user you can create additional obstacles for AI to challenge. After creating each obstacle generation will be reset to 1.
+
 To reset generations along with obstacles you can press enter key.
 
 
@@ -24,6 +25,7 @@ To reset generations along with obstacles you can press enter key.
 ## Build and run
 
 You can run this application straight away by running ML-Fun.jar from bin/ folder
+
 To build this application by yourself you can use 
 
 `chmod +x gradlew && ./gradlew desktop:dist on Linux and MacOS`
