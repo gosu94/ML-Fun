@@ -90,7 +90,7 @@ public class Dot {
     void calculateFitness() {
         double dist = distance(this.pos, goal.pos);
         if (reachedGoal) {
-            fitness = 10000 / brain.step;
+            fitness = 100000 / brain.step;
         } else
             fitness = 1 / (dist * dist);
     }
