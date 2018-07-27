@@ -22,7 +22,7 @@ public class Dot {
 
     public Dot(Vector2 pos) {
 
-        this.brain = new Brain(500);
+        this.brain = new Brain(800);
         alive = true;
         this.pos = pos;
         this.vel = new Vector2(0, 0);
@@ -35,7 +35,7 @@ public class Dot {
     }
 
     public Dot(Vector2 pos, Color color) {
-        this.brain = new Brain(400);
+        this.brain = new Brain(800);
         alive = true;
         this.pos = pos;
         this.vel = new Vector2(0, 0);
