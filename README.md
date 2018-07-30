@@ -13,6 +13,14 @@ ML-Fun is my first take on machine learning algorithms. At it's core AI is tryin
 
 **Min steps** - minimal steps individual has to take to get to the goal. This should be improving as generations passes. If generations are not getting to the goal yet, it is set to default 1000 value.
 
+## Requirements
+
+**BUILD**
+In order to build this application you need to have [JDK >= 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) installed
+
+**RUN**
+In order to run this application you need to have [JRE >= 9](http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html) installed
+
 ## Instructions
 As a user you can create additional obstacles for AI to challenge. After creating each obstacle generation will be reset to 1.
 
