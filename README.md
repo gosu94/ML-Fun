@@ -16,9 +16,11 @@ ML-Fun is my first take on machine learning algorithms. At it's core AI is tryin
 ## Requirements
 
 **BUILD**
+
 In order to build this application you need to have [JDK >= 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) installed
 
 **RUN**
+
 In order to run this application you need to have [JRE >= 9](http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html) installed
 
 ## Instructions
